@@ -1,0 +1,304 @@
+.Manage h2 {
+text-align: center;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    background: white; 
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: olive;
+    color: white;
+}
+
+button {
+  background-color: var(--primary-red);
+  color: white;
+  font-family: "Playfair Display", serif;
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 1rem;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+    background-color: #556b2f;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 20px;
+}
+
+#addUserForm, #editUserForm {
+    background: white;
+    font-family: "Playfair Display", serif;
+    padding: 20px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: none; 
+    width: 350px;
+    border-radius: 8px;
+    z-index: 1000;
+}
+
+#addUserForm h2, #editUserForm h2 {
+    text-align: center;
+    
+}
+
+#addUserForm input, #editUserForm input, 
+#addUserForm select, #editUserForm select {
+    width: 100%;
+    padding: 8px;
+    font-family: "Playfair Display", serif;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#closeAddForm, #closeEditForm {
+    background-color: olive;
+    color: white;
+    width: 20px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: -10px;  
+    right: -10px; 
+    border-radius: 3px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#addUserButton {
+    display: block;     
+    margin: 20px auto;   
+    font-family: "Playfair Display", serif;
+    padding: 10px 20px;  
+    background-color: olive;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#addUserButton:hover {
+    background-color: darkgreen;
+}
+
+#addMenuForm, #editMenuForm {
+    background: white;
+    padding: 20px;
+    position: fixed;
+    font-family: "Playfair Display", serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: none; 
+    width: 350px;
+    border-radius: 8px;
+    z-index: 1000;
+}
+
+#addMenuForm h2, #editMenuForm h2 {
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+#addMenuForm input, #editMenuForm input, 
+#addMenuForm select, #editMenuForm select,
+#addMenuForm textarea, #editMenuForm textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    font-family: "Playfair Display", serif;
+    border-radius: 4px;
+}
+
+#closeAddForm, #closeEditForm {
+    background-color: olive;
+    color: white;
+    width: 25px;
+    height: 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;  
+    right: 10px; 
+    border-radius: 3px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#addMenuButton {
+    display: block;     
+    margin: 20px auto;   
+    padding: 10px 20px;  
+    font-family: "Playfair Display", serif;
+    background-color: olive;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#addMenuButton:hover {
+    background-color: darkgreen;
+}
+
+#addReservationForm, #editReservationForm {
+    background: white;
+    padding: 20px;
+    position: fixed;
+    font-family: "Playfair Display", serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: none;
+    width: 350px;
+    border-radius: 8px;
+    z-index: 1000;
+    max-height: 80vh;
+    overflow-y: auto
+}
+
+#addReservationForm h2, #editReservationForm h2 {
+    text-align: center;
+    font-family: "Playfair Display", serif;
+}
+
+#addReservationForm input, #editReservationForm input,
+#addReservationForm select, #editReservationForm select,
+#addReservationForm textarea, #editReservationForm textarea {
+    width: 100%;
+    padding: 8px;
+    font-family: "Playfair Display", serif;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#closeAddReservationForm, #closeEditReservationForm {
+    background-color: olive;
+    color: white;
+    width: 20px;
+    height: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+#addReservationButton {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    font-family: "Playfair Display", serif;
+    background-color: olive;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+#addReservationButton:hover {
+    background-color: darkgreen;
+}
+
+#responseForm {
+    background: white;
+    padding: 20px;
+    position: fixed;
+    font-family: "Playfair Display", serif;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    display: none;
+    width: 350px;
+    border-radius: 8px;
+    z-index: 1000;
+}
+
+#responseForm h2 {
+    text-align: center;
+    font-family: "Playfair Display", serif;
+    margin-bottom: 15px;
+}
+
+#responseForm label {
+    font-weight: bold;
+    font-family: "Playfair Display", serif;
+    display: block;
+    margin-top: 10px;
+}
+
+#responseForm textarea, #responseForm select {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #ccc;
+    font-family: "Playfair Display", serif;
+    border-radius: 4px;
+}
+
+#closeResponseForm {
+    background-color: olive;
+    color: white;
+    width: 25px;
+    height: 25px;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+}
