@@ -122,15 +122,36 @@ Built with modern web technologies, the system is ideal for enhancing customer s
 ![image](https://github.com/user-attachments/assets/5e45143a-0517-48d5-95ed-0ae341e16727)
 ![image](https://github.com/user-attachments/assets/2638091e-02a0-4051-93dd-a173e417b73e)
 
+- Customer Queries
+
+![image](https://github.com/user-attachments/assets/03bdc35e-5195-428f-8a89-1e8cf844ebee)
+![image](https://github.com/user-attachments/assets/970d7fb0-08d4-4b15-83b1-c0aed0d667ad)
+
 - Staff Dashboard
 
-
-- Customer Booking Page
-
+![image](https://github.com/user-attachments/assets/85138ebf-b94b-4860-8016-fb37c09ba81c)
 
 - Customer Dashboard
 
+![image](https://github.com/user-attachments/assets/d619ab81-ed03-4bdf-b24e-22de2f47397d)
+![image](https://github.com/user-attachments/assets/c3995e6c-c65d-4d2c-8c8a-165291adff7a)
+![image](https://github.com/user-attachments/assets/c5253fa7-8085-45ad-a68a-e0037ad8cb08)
+![image](https://github.com/user-attachments/assets/e9172b29-06a6-4800-a17f-fa88b54b0442)
 
+- Manage Profile
+
+![image](https://github.com/user-attachments/assets/0be373be-6144-475e-bcf4-04aca75d4a8f)
+![image](https://github.com/user-attachments/assets/23f4f3c9-c3f9-4095-86fc-7d30568172f2)
+
+- Manage My Reservations
+
+![image](https://github.com/user-attachments/assets/08d91f91-fe81-4db6-b36f-6d787ea6caab)
+![image](https://github.com/user-attachments/assets/007f5fb0-a7b4-4fff-b063-8947ea2cf72b)
+
+- My Queries
+
+![image](https://github.com/user-attachments/assets/77236c6c-0e06-49a8-babf-5de787557be7)
+![image](https://github.com/user-attachments/assets/f0770b64-d93a-4f68-b44a-ae408b2b2d50)
 
 ---
 
