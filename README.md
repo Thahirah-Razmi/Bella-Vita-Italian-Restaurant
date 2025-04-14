@@ -73,6 +73,12 @@ Built with modern web technologies, the system is ideal for enhancing customer s
 ![image](https://github.com/user-attachments/assets/43be51cd-4835-4200-9f93-834b8c47055e)
 ![image](https://github.com/user-attachments/assets/611abba7-5e93-40ab-9563-2649b01b6587)
 
+- Register
+
+![image](https://github.com/user-attachments/assets/d75635c7-971a-44e3-b158-15f505bbcf82)
+![image](https://github.com/user-attachments/assets/70843475-e7eb-4155-801c-137e988183b9)
+![image](https://github.com/user-attachments/assets/c34f482c-9987-446d-b0bd-26bfd3363d59)
+
 - Admin Login
 
 
