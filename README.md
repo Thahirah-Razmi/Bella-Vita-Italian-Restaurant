@@ -79,8 +79,16 @@ Built with modern web technologies, the system is ideal for enhancing customer s
 ![image](https://github.com/user-attachments/assets/70843475-e7eb-4155-801c-137e988183b9)
 ![image](https://github.com/user-attachments/assets/c34f482c-9987-446d-b0bd-26bfd3363d59)
 
-- Admin Login
+- Login
 
+![image](https://github.com/user-attachments/assets/156441fc-e986-4a83-be6f-0b64b49c2a95)
+![image](https://github.com/user-attachments/assets/61e1584b-6c4f-4694-9bc8-d4ce10dbe054)
+
+- Reservation
+
+![image](https://github.com/user-attachments/assets/54726656-6bdf-4ce4-a023-970990be2724)
+![image](https://github.com/user-attachments/assets/9b7c2c64-701b-4e16-9da5-8c854acb0598)
+![image](https://github.com/user-attachments/assets/b887f02d-80a2-4ada-b9ac-8f4a3ee1fb4e)
 
 - Admin Dashboard
 
