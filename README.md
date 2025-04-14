@@ -92,9 +92,35 @@ Built with modern web technologies, the system is ideal for enhancing customer s
 
 - Admin Dashboard
 
+![image](https://github.com/user-attachments/assets/9d7adb21-26e2-4d36-b052-7b902d78d4f4)
+![image](https://github.com/user-attachments/assets/8e97ccd5-b5b7-4857-8df3-c27b9dcd7f56)
+
+- Manage Users
+
+![image](https://github.com/user-attachments/assets/41fc253d-74f5-469a-8b9c-94ee398838ec)
+![image](https://github.com/user-attachments/assets/708cb147-9e96-4bee-addf-75e6c9a6473b)
+![image](https://github.com/user-attachments/assets/1c8e204d-2be0-4f10-b01c-43c369e35667)
+![image](https://github.com/user-attachments/assets/8bce3ce1-992f-4324-8e01-0465e119d3f1)
 
 - Manage Menu
 
+![image](https://github.com/user-attachments/assets/cd21f831-1336-465a-be47-c0f8483704e8)
+![image](https://github.com/user-attachments/assets/971fa5ab-fc91-4eea-8994-c95f1f267836)
+![image](https://github.com/user-attachments/assets/c030ed06-fb4e-42ce-8ce2-9869ff2943b7)
+
+- Manage Reservations
+
+![image](https://github.com/user-attachments/assets/0db15eb2-64f8-4089-92b7-5de872dad8e4)
+![image](https://github.com/user-attachments/assets/fc2ff566-9b76-49fe-b979-7baf7cb72014)
+![image](https://github.com/user-attachments/assets/7c035dda-40e4-422d-ab30-dd5af2266650)
+![image](https://github.com/user-attachments/assets/1a70e27f-875e-4b6c-a508-68545e6947f7)
+![image](https://github.com/user-attachments/assets/ac49574c-e507-4103-ae7c-ad1029400b9e)
+
+- Manage Tables
+
+![image](https://github.com/user-attachments/assets/04370589-aa86-49a1-9910-be6f660d634c)
+![image](https://github.com/user-attachments/assets/5e45143a-0517-48d5-95ed-0ae341e16727)
+![image](https://github.com/user-attachments/assets/2638091e-02a0-4051-93dd-a173e417b73e)
 
 - Staff Dashboard
 
